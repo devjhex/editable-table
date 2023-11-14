@@ -1,1 +1,1 @@
-# Daily-tip Generator
+# Editable Table
